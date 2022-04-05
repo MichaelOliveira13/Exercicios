@@ -1,3 +1,1 @@
-# Exercícios feitos para treinar lógica e Js
-
-## Beecrowd
+# Exercícios feitos para treinar lógica, Js, Html
