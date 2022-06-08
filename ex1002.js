@@ -1,11 +1,16 @@
-var raio = 3.14159 .toFixed(4)
-console.log('A=',raio * 2**2 )     
+let raio1 = 3.14159 .toFixed(4)
+let r1 = raio1 * 2**2
+
+console.log('A=' , r1)     
 
 
-var raio = 3.14159 
-console.log('A=',raio * 100.64*100.64 .toFixed(4)) 
+let raio2 = 3.14159 
+let r2 = raio2 * 100.64**2 .toFixed(4)
+
+console.log('A=', r2) 
 
 
-var raio = 3.14159 
-console.log('A=',raio * 150.00*150.00 .toFixed(4)) 
+let raio3 = 3.14159
+let r3 = raio3 * 150.00**2 .toFixed(6) 
+console.log('A=', r3) 
 
